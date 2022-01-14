@@ -1,7 +1,7 @@
 #!/usr/bin/phyton
 
 #Función para multiplicar
-def mult(a,b):
+def multiplicar(a,b):
     return a*b
 
-print(mult(5,2))
+print(multiplicar(5,2))
