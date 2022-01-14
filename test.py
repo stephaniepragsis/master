@@ -1,4 +1,4 @@
 #/usr/bin/python
 
 def test:
-  pass
+  print("hola mundo")
